@@ -43,15 +43,6 @@ class DataEnthusiast:
 ### 🎯 Goal
 > *Contribute to open-source data projects and build solutions that make data analysis easier.*
 
-### 📈 GitHub Stats
-<p align="center">
-  <a href="https://github.com/kadamsainath19">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kadamsainath19&show_icons=true&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/kadamsainath19">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadamsainath19&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
 
 ### 📫 Let's Connect
 <p align="center">
