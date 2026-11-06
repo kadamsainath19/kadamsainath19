@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm YOUR NAME 👋</h1>
+<h1 align="center">Hi there, I'm Sainath Kadam 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Enthusiast+%F0%9F%93%88;Turning+raw+data+into+business+insights;SQL+%7C+Python+%7C+Power+BI;Open+Source+Contributor+in+the+making+%F0%9F%9A%80" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 ```python
 class DataEnthusiast:
     def __init__(self):
-        self.name = "YOUR NAME"
+        self.name = "Sainath Kadam"
         self.role = "Aspiring Data Analyst"
         self.skills = ["Python", "Pandas", "NumPy", "SQL", "Power BI", "DAX", "Excel"]
         self.currently_learning = ["Advanced SQL", "Data Automation", "Open Source Workflows"]
@@ -45,14 +45,18 @@ class DataEnthusiast:
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/kadamsainath19">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kadamsainath19&show_icons=true&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/kadamsainath19">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadamsainath19&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ### 📫 Let's Connect
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sainath-kadam-9a14812a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/kadamsainath19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>⭐ Data tells a story. I'm here to help tell it.</i></p>
